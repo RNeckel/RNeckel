@@ -2,6 +2,6 @@
 
 - 🔭 Estou fazendo estágio em QA 
 - 🌱 Estudando QA 
-- 🤔 Estudando segurança da informação (Pentest, RedTeam)
+- 🤔 Estudante de Análise e Desenvolvimento de sistemas
 - [Portfólio](https://rneckel.github.io/trabalho_segunda_parte/)
 
